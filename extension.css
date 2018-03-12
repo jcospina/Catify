@@ -1,0 +1,18 @@
+body {
+    width: 200px;
+    height: 100px;
+    position: relative;
+}
+
+button {
+    width: 50%;
+    height: 50%;
+    font-size: 20px;
+    text-align: center;
+    background-color: #2196F3;
+    color: white;
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
