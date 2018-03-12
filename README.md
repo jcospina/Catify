@@ -1,3 +1,3 @@
-# tweet-changer
+# Catify
 
-Project to test the capabilities of the Chrome Extensions
+Add a cute dancing cat to your websites
